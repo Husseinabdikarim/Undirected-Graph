@@ -5,7 +5,6 @@ public class Graph {
 //-----------------------------------------------------
 // Title: Question 2
 // Author: Hussein Abdikarim Hussein
-// ID: 99230997266
 // Section: 1
 // Assignment: 1
 // Description: This class represents an undirected graph. It contains a constructor
