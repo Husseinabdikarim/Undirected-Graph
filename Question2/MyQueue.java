@@ -7,7 +7,6 @@ public class MyQueue<Item> implements Iterable<Item> {
 //-----------------------------------------------------
 // Title: Question 2
 // Author: Hussein Abdikarim Hussein
-// ID: 99230997266
 // Section: 1
 // Assignment: 1
 // Description: This is a generic Queue class DataStructure used in
