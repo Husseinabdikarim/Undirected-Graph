@@ -7,7 +7,6 @@ public class Main {
 //-----------------------------------------------------
 // Title: Question 2
 // Author: Hussein Abdikarim Hussein
-// ID: 99230997266
 // Section: 1
 // Assignment: 1
 // Description: This class finds a cycle between
